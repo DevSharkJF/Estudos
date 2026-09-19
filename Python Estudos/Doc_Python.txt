@@ -1,0 +1,4 @@
+https://docs.python.org/pt-br/3/contents.html
+
+Tipos embutidos:
+https://docs.python.org/pt-br/3/library/stdtypes.html
